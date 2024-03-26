@@ -11,5 +11,5 @@ The Library Editor oversees content creation using the popular WordPress and Med
 ### Subscription management
 Subscribers can be managed using OCDLA's cloud Salesforce CRM, which stores identify information (name, email address and username) and, optionally, profile information (e.g., areas of expertise/interest, profile picture).  Subscribers manage their own logins to the Library and Books Online, especially their usernames and passwords, using OCDLA's already-functioning Salesforce Single Sign-On facilities.
 
-### Outreach
+### Web Outreach
 Outreach to consumers of Library content can be communicated using existing mass email, SMS or listserv facilities already running on the OCDLA platform.  These modes can be used to inform subscribers of new content, relevant content (i.e., by area of interest) and new application features that further the practice of public defense practitioners.  Messages can be automated, scheduled or generated on an ad-hoc basis.
